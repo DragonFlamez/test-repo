@@ -1,5 +1,9 @@
-# test-repo
-Code2College
-Elite 101 Test
-[Link to Google](Google.com)
-[Link to LMS](https://c2cportal.herokuapp.com/login/)
+# Introduction
+
+This is a repository created by *Krish*
+
+## Usage
+
+Run this command to execute the application:
+
+`python filename.py`
